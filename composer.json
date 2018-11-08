@@ -1,18 +1,18 @@
 {
-	"name": "briceburg/silverstripe-pickerfield",
-	"description": "GridField based management of has_one , has_many , and many_many relationship selection",
+	"name": "guitou4573/silverstripe-pickerfield",
+	"description": "GridField based management (fork from briceburg)",
 	"type": "silverstripe-module",
-	"homepage": "https://github.com/briceburg/silverstripe-pickerfield",
+	"homepage": "https://github.com/guitou4573/silverstripe-pickerfield",
 	"keywords": ["silverstripe", "gridfield", "has_one"],
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
-			"name": "Brice Burgess",
-			"email": "brice@digome.com"
+			"name": "Guitou4573",
+			"email": "guillaume@dum.li"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/briceburg/silverstripe-pickerfield/issues"
+		"issues": "https://github.com/guitou4573/silverstripe-pickerfield/issues"
 	},
 	"require": {
 	  "silverstripe/framework": "~3.0",
