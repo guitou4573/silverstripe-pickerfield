@@ -16,7 +16,7 @@
 	},
 	"require": {
 	  "silverstripe/framework": "~3.0",
-		"silverstripe-australia/gridfieldextensions": "*"
+		"symbiote/gridfieldextensions": "*"
 	},
 	"extra": {
 		"installer-name": "pickerfield",
